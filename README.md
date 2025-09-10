@@ -1,4 +1,4 @@
-<img width="690" height="1534" alt="图片" src="https://github.com/user-attachments/assets/5b44495c-9207-43b6-b509-ecd09c46b964" />## 基于SSM民大食堂用餐综合服务平台小程序(源代码+LW+PPT+数据库)
+## 基于SSM民大食堂用餐综合服务平台小程序(源代码+LW+PPT+数据库)
 **毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories**
 
 **完整代码收费可以加微信FY-yuanma咨询接毕业设计论文**
@@ -33,7 +33,7 @@
 <img width="672" height="1534" alt="图片" src="https://github.com/user-attachments/assets/98e758e5-c9ed-4b5b-bb08-e45784c9bab5" />
 <img width="692" height="1524" alt="图片" src="https://github.com/user-attachments/assets/a5fa86e3-a0d2-4ca0-a50d-3b1711123b93" />
 <img width="690" height="1534" alt="图片" src="https://github.com/user-attachments/assets/86ebd37b-4613-42eb-9256-4b6b93859c30" />
-
+<img width="690" height="1534" alt="图片" src="https://github.com/user-attachments/assets/5b44495c-9207-43b6-b509-ecd09c46b964" />
 ## 五、浏览地址
 
 前端访问地址：http://localhost:8080/
