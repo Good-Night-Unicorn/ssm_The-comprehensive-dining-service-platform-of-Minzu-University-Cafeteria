@@ -1,4 +1,4 @@
-## 基于SSM综合文化信息管理系统小程序(源代码+LW+PPT+数据库)
+<img width="690" height="1534" alt="图片" src="https://github.com/user-attachments/assets/5b44495c-9207-43b6-b509-ecd09c46b964" />## 基于SSM民大食堂用餐综合服务平台小程序(源代码+LW+PPT+数据库)
 **毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories**
 
 **完整代码收费可以加微信FY-yuanma咨询接毕业设计论文**
@@ -25,14 +25,14 @@
 所有项目以及源代码本人均调试运行无问题 可支持远程调试运行
 
 ## 四、页面截图
-<img width="814" height="478" alt="图片" src="https://github.com/user-attachments/assets/f0e19f08-cdb0-47d7-a72d-764ac427cca0" />
-<img width="326" height="478" alt="图片" src="https://github.com/user-attachments/assets/990fc01b-f33a-442c-ae21-1d4dd74e2fd2" />
-<img width="1224" height="603" alt="图片" src="https://github.com/user-attachments/assets/c58f28c6-463e-43dc-90f9-31bcf21ed7ff" />
-<img width="1224" height="609" alt="图片" src="https://github.com/user-attachments/assets/0041954f-f102-4430-aa4a-5f3e42c371ea" />
-<img width="1223" height="615" alt="图片" src="https://github.com/user-attachments/assets/17945944-9627-4aba-840a-3fd6fe54270c" />
-<img width="812" height="1482" alt="图片" src="https://github.com/user-attachments/assets/6179e2e3-4809-4296-9274-527053609c92" />
-<img width="830" height="1482" alt="图片" src="https://github.com/user-attachments/assets/9f7698e0-aceb-44ae-89e0-69fac4ec9685" />
-<img width="822" height="1438" alt="图片" src="https://github.com/user-attachments/assets/080797ee-6501-4d7b-b9a6-e7f337bb3bda" />
+<img width="904" height="478" alt="图片" src="https://github.com/user-attachments/assets/d0dd8c15-508d-48fb-85db-d09d334db9d7" />
+<img width="1223" height="572" alt="图片" src="https://github.com/user-attachments/assets/abcf6c5f-e8fa-4ee8-8daf-0a141c522e8e" />
+<img width="1224" height="636" alt="图片" src="https://github.com/user-attachments/assets/a5cecab5-73b5-4658-83c8-6b7fd2943660" />
+<img width="1224" height="629" alt="图片" src="https://github.com/user-attachments/assets/04870f04-ff26-45ed-9827-cd6ed1f79086" />
+<img width="1225" height="561" alt="图片" src="https://github.com/user-attachments/assets/e8e64881-8edf-4716-b334-aecfc5acc694" />
+<img width="672" height="1534" alt="图片" src="https://github.com/user-attachments/assets/98e758e5-c9ed-4b5b-bb08-e45784c9bab5" />
+<img width="692" height="1524" alt="图片" src="https://github.com/user-attachments/assets/a5fa86e3-a0d2-4ca0-a50d-3b1711123b93" />
+<img width="690" height="1534" alt="图片" src="https://github.com/user-attachments/assets/86ebd37b-4613-42eb-9256-4b6b93859c30" />
 
 ## 五、浏览地址
 
